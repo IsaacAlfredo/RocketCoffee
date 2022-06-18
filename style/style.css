@@ -20,3 +20,23 @@ h2 {
   text-shadow: -1px -1px 0 var(--button), 1px -1px 0 var(--button),
     -1px 1px 0 var(--button), 1px 1px 0 var(--button);
 }
+
+#blur1 {
+  position: absolute;
+  top: 8.7%;
+  left: 0;
+}
+
+#coffee {
+  position: relative;
+  top: 6.6rem;
+  width: fit-content;
+  display: block;
+  margin: 0 auto;
+}
+
+#blur2 {
+  position: absolute;
+  top: -15%;
+  left: 53%;
+}
