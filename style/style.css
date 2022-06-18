@@ -12,8 +12,29 @@
 body {
   background: var(--background);
 }
+
+nav {
+  display: block;
+  width: 80%;
+  margin-inline: auto;
+  border: 2px solid blue;
+}
+
+#logo {
+  margin-top: 2rem;
+  margin-right: 10rem;
+}
+
+#home,
+#menu,
+#recompensas,
+#giftCards {
+  margin-right: 2rem;
+}
+
 button {
   background-color: var(--button);
+  margin-left: 10rem;
 }
 
 h2 {
